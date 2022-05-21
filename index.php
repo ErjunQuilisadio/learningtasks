@@ -12,6 +12,7 @@
     <li> <a href= "/CLE1MT/index.html"> CLE1MT </a> </li>
     <li> <a href= "/LT4/index.html"> LEARNING TASK 4 </a> </li>
     <li> <a href= "/LT5/index.html"> LEARNING TASK 5 </a> </li>
+    <li> <a href= "/CLE1/index.php"> CLE1 </a> </li>
   </ul>
   </body>
   </html>
