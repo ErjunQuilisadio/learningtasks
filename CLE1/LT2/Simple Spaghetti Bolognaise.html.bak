@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple Spaghetti Bolognese</title>
+</head>
+<body>
+
+<h1>Simple Spaghetti Bolognese</h1>
+    <img src="Spaghetti Bolognese.jpg"
+	width= "450"
+	height= "300">
+
+<h2>Ingredients</h2>
+    <ul>
+  <li>500g Beef Mince</li>
+  <li>1 tbsp Olive Oil</li>
+  <li>1 Onion, finely chopped</li>
+  <li>1 Cup Beef Stock</li>
+  <li>Clove of Garlic</li>
+  <li>Carrots, Mushroom and Celery (optional)</li>
+  <li>1 tsp Dried Mixed or Italian-style herbs</li>
+  <li>Squirt of Tomatoe Paste</li>
+  <li>1 x 425g Passata or Chopped Tomatoes</li>
+  
+  
+</ul>
+<h2>Methods</h2>
+    <ol>
+  <li>Heat oil in a heavy-based pan and add onion, stirring over a moderate heat for
+  1-2 minutes.</li>
+  <li>Add mince, stirring constantly until well browned.</li>
+  <li>Stir in remaining ingredients.</li>
+  <li>Cover and simmer gently for about 30 minutes, or until cooked through (if
+  using chopped tomatoes this will take a bit longer.</li>
+  <li>Serve with your favorite spaghetti, bread and salad.</li>
+</ol> 
+
+<p><a href="file:///C:/Users/ellie/Desktop/School/ITC/LT2/HOMEPAGE.html">Back</a></p>
+</body>
+</html>
